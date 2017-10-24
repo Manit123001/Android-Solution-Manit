@@ -4,6 +4,7 @@
 - https://www.androidhive.info/2013/04/android-developing-flashlight-application/
 
 ### android camera2 api video
+- Github Manit123001/AndroidCamera2VideoImage : https://github.com/Manit123001/AndroidCamera2VideoImage
 - Youtube Learning : https://www.youtube.com/watch?v=CuvVpsFc77w&list=PL9jCwTXYWjDIHNEGtsRdCTk79I9-95TbJ
 - Github : https://github.com/mobapptuts/android_camera2_api_video_app
 - Web : https://www.nigeapptuts.com/android-video-app-adding-icons/
@@ -16,6 +17,7 @@
 
 
 ### SQLite
+- Github Manit123001/CRUDEsqliteNewApplication : https://github.com/Manit123001/CRUDEsqliteNewApplication
 - Android Upload Image to Server Using PHP MySQL : https://www.simplifiedcoding.net/android-upload-image-to-server-using-php-mysql
 - github requery/sqlite-android : https://github.com/requery/sqlite-android
 - Android SQLite Database with Multiple Tables : https://www.androidhive.info/2013/09/android-sqlite-database-with-multiple-tables/
