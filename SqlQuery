@@ -1,1 +1,2 @@
+- sub query
 select pro.PROVINCE_NAME from PROVINCE pro where pro.ID = (select PROVINCE_TALK.PROVINCETALK_PROVINCE_ID from PROVINCE_TALK where PROVINCE_TALK.PROVINCETALK_NAME = "กรุง7")
